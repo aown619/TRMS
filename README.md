@@ -23,7 +23,7 @@ List of features ready:
 * Create Request.
 * See your all request's status .
 * Reject/Accept the request.
-* GIve the rejection reason.
+* Give the rejection reason.
 
 
 ## Getting Started
